@@ -15,4 +15,8 @@
 	"color": "#ff0000",
 	"category": "videos",
 	"tags": ["videos"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> parent of b6bc7bc75 (Ran prettier + other changes to pass checks)
